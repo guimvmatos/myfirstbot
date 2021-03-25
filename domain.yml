@@ -1,3 +1,4 @@
+#primeiro faço os imports das intents em nlu.md
 intents:
   - greet
   - goodbye
@@ -6,7 +7,7 @@ intents:
   - mood_great
   - mood_unhappy
   - bot_challenge
-
+#depois configuro as respostas. Importante que, os links entre intents e responses estão em stories.md
 responses:
   utter_greet:
   - text: "Hey! How are you?"
