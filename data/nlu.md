@@ -1,4 +1,3 @@
-<!--Se o texto do usuário dar 'match' em algum aqui, o intent será considerado -->
 ## intent:greet
 - hey
 - hello
