@@ -6,7 +6,7 @@
 - good evening
 - hey there
 - oi
-
+- ola
 ## intent:goodbye
 - bye
 - goodbye
