@@ -22,3 +22,4 @@ conda activate chatbotvenv
 rasa train (to train after some modification)
 rasa shell (to interact with our chatbots)
 rasa run --cors "*" --debug (to run with index.html)
+ngrok http 5005 (trocar o link de localhost para o ngrok em index.html)
