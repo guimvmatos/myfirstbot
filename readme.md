@@ -19,4 +19,6 @@ rasa init
 cmd.exe
 conda env list (if you forget the env that you created)
 conda activate chatbotvenv
+rasa train (to train after some modification)
 rasa shell (to interact with our chatbots)
+rasa run --cors "*" --debug (to run with index.html)

@@ -7,6 +7,7 @@
 - hey there
 - oi
 - ola
+
 ## intent:goodbye
 - bye
 - goodbye
@@ -43,6 +44,7 @@
 - very sad
 - unhappy
 - bad
+- to mal para caralho
 - very bad
 - awful
 - terrible
