@@ -20,6 +20,7 @@ cmd.exe
 conda env list (if you forget the env that you created)
 conda activate chatbotvenv
 rasa train (to train after some modification)
+rasa interactive (to help rasa with flows and words)
 rasa shell (to interact with our chatbots)
 rasa run --cors "*" --debug (to run with index.html)
 ngrok http 5005 (trocar o link de localhost para o ngrok em index.html)
